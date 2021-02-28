@@ -6,7 +6,7 @@ Bu proje çalışmasında Raspberry Pi 3B ve diğer gerekli malzemeler
 kullanılarak görme engelli bireyler için yardımcı bir gözlük
 tasarlanması amaçlandı.
 
-(myMediaFolder/media/image1.jpeg)
+![](myMediaFolder/media/image1.jpeg)
 **2.Amaç**
 
 Görme engelli bireylerin etrafındaki nesneleri gözlük üzerine bağlanmış
