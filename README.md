@@ -6,9 +6,7 @@ Bu proje çalışmasında Raspberry Pi 3B ve diğer gerekli malzemeler
 kullanılarak görme engelli bireyler için yardımcı bir gözlük
 tasarlanması amaçlandı.
 
-> ![C:\\Users\\Kreq\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\beepView-1.jpeg](myMediaFolder\media\image1.jpeg){width="1.4166666666666667in"
-> height="1.8645833333333333in"}
-
+(myMediaFolder/media/image1.jpeg)
 **2.Amaç**
 
 Görme engelli bireylerin etrafındaki nesneleri gözlük üzerine bağlanmış
@@ -17,8 +15,7 @@ uyarı yardımıyla kişinin gözlük doğrultusundaki nesneden uzaklığı
 hakkında bir fikir edinmesini sağlayarak, oluşabilecek kazalar konusunda
 hedef bireylere yardımcı olmaktır.
 
-![C:\\Users\\Kreq\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\beepView-2.jpeg](myMediaFolder\media\image2.jpeg){width="1.4166666666666667in"
-height="1.8958333333333333in"}
+(myMediaFolder/media/image2.jpeg)
 
 **3.Kullanılan Donanımlar**
 
@@ -67,7 +64,7 @@ height="1.8958333333333333in"}
 
 -   10K Direnç
 
-![](myMediaFolder\media\image3.jpeg)
+![](myMediaFolder/media/image3.jpeg)
 
 **5.Çalışma Prensibi**
 
@@ -78,8 +75,7 @@ altına düşerse buzzer aracılığıyla bip sesi ile kullanıcıyı önünde b
 cisim olduğu konusunda uyarır. Bip seslerinin uyarısı cismin uzaklığına
 göre hızlanır ya da yavaşlar.
 
-![C:\\Users\\Kreq\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\beepView-şema.jpeg](myMediaFolder\media\image4.jpeg){width="4.260416666666667in"
-height="1.9327055993000875in"}
+(myMediaFolder/media/image4.jpeg)
 
 Projemizde kullanılan kod Python programa dili kullanılarak yazıldı. İlk
 olarak projemize gerekli kütüphaneler eklenip kullandığımız GPİO
@@ -91,8 +87,7 @@ sensörden gelen uzaklık verisini sürekli olarak hesaplatıp, bu veri
 doğrultusunda "eğer" fonksiyonunu kullanarak buzzer'ın beep sesleri
 arasında ne kadar bekleyeceğini değiştiriyoruz.
 
-![C:\\Users\\Kreq\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\beepView-4.jpeg](myMediaFolder\media\image5.jpeg){width="2.8712204724409447in"
-height="3.8229166666666665in"}
+(myMediaFolder/media/image5.jpeg)
 
 **6.Sonuç**
 
