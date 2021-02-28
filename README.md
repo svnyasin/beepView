@@ -15,7 +15,7 @@ uyarı yardımıyla kişinin gözlük doğrultusundaki nesneden uzaklığı
 hakkında bir fikir edinmesini sağlayarak, oluşabilecek kazalar konusunda
 hedef bireylere yardımcı olmaktır.
 
-(myMediaFolder/media/image2.jpeg)
+![](myMediaFolder/media/image2.jpeg)
 
 **3.Kullanılan Donanımlar**
 
@@ -52,7 +52,7 @@ hedef bireylere yardımcı olmaktır.
         düşünebiliriz. Hoparlörler kadar yüksek ve detaylı ses
         üremeseler de, "bip" leme seslerini çıkartmada oldukça
         başarılıdırlar. Bu tarz buzzer fiyatları çok uygundur.[\
-        ](https://maker.robotistan.com/wp-content/uploads/2015/09/buzzer1.jpg)
+        ![](https://maker.robotistan.com/wp-content/uploads/2015/09/buzzer1.jpg)
 
     -   Projemizde çıktı birimi olarak kullanacağız .
 
@@ -75,7 +75,7 @@ altına düşerse buzzer aracılığıyla bip sesi ile kullanıcıyı önünde b
 cisim olduğu konusunda uyarır. Bip seslerinin uyarısı cismin uzaklığına
 göre hızlanır ya da yavaşlar.
 
-(myMediaFolder/media/image4.jpeg)
+![](myMediaFolder/media/image4.jpeg)
 
 Projemizde kullanılan kod Python programa dili kullanılarak yazıldı. İlk
 olarak projemize gerekli kütüphaneler eklenip kullandığımız GPİO
@@ -87,7 +87,7 @@ sensörden gelen uzaklık verisini sürekli olarak hesaplatıp, bu veri
 doğrultusunda "eğer" fonksiyonunu kullanarak buzzer'ın beep sesleri
 arasında ne kadar bekleyeceğini değiştiriyoruz.
 
-(myMediaFolder/media/image5.jpeg)
+![](myMediaFolder/media/image5.jpeg)
 
 **6.Sonuç**
 
